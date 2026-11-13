@@ -1,0 +1,8 @@
+{
+  "name": "v1i_Remix: Remix: Gesture Piano Learner",
+  "description": "Learn to play piano using hand gestures recognized by your camera. Features a guided lesson mode with a library of classics like \u0027Für Elise\u0027 and \u0027Turkish March\u0027.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
